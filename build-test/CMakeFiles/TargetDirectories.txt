@@ -1,0 +1,10 @@
+C:/Temp/SoftwareEngCMake/build-test/CMakeFiles/RUN_TESTS.dir
+C:/Temp/SoftwareEngCMake/build-test/CMakeFiles/ALL_BUILD.dir
+C:/Temp/SoftwareEngCMake/build-test/CMakeFiles/ZERO_CHECK.dir
+C:/Temp/SoftwareEngCMake/build-test/src/basic/CMakeFiles/basic.dir
+C:/Temp/SoftwareEngCMake/build-test/src/basic/CMakeFiles/RUN_TESTS.dir
+C:/Temp/SoftwareEngCMake/build-test/mains/CMakeFiles/HelloWorld.dir
+C:/Temp/SoftwareEngCMake/build-test/mains/CMakeFiles/RUN_TESTS.dir
+C:/Temp/SoftwareEngCMake/build-test/tests/CMakeFiles/test_hello.dir
+C:/Temp/SoftwareEngCMake/build-test/tests/CMakeFiles/test_version.dir
+C:/Temp/SoftwareEngCMake/build-test/tests/CMakeFiles/RUN_TESTS.dir

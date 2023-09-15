@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Temp\SoftwareEngCMake\build-test\CMakeFiles\6fe793f3539104053e569530de4a35b1\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Temp\SoftwareEngCMake\cmake\HelloProjConfig.h.in">
+      <Filter>Buildsystem Input Files\cmake</Filter>
+    </None>
+    <None Include="C:\Temp\SoftwareEngCMake\mains\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\mains</Filter>
+    </None>
+    <None Include="C:\Temp\SoftwareEngCMake\src\basic\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\src\basic</Filter>
+    </None>
+    <None Include="C:\Temp\SoftwareEngCMake\tests\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\tests</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B6AB8E09-B1E2-3632-A64A-966ABDE07DE6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7C2268F1-977E-35DA-AC12-C8E89CB8462C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\cmake">
+      <UniqueIdentifier>{F1B63B9B-8274-31C5-8587-A1D1FA89FA82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\mains">
+      <UniqueIdentifier>{66EEFCE1-72A2-3195-B85F-964C2FEBBB7B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\src\basic">
+      <UniqueIdentifier>{F3BCACD7-BB7B-3C8F-9E33-896776417995}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\tests">
+      <UniqueIdentifier>{F9A27260-8B65-35F2-9D31-67188E6F3A14}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

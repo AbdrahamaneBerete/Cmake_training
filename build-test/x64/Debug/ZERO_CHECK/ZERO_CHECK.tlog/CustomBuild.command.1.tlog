@@ -1,0 +1,10 @@
+^C:\TEMP\SOFTWAREENGCMAKE\BUILD-TEST\CMAKEFILES\6FE793F3539104053E569530DE4A35B1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Temp/SoftwareEngCMake -BC:/Temp/SoftwareEngCMake/build-test --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Temp/SoftwareEngCMake/build-test/HelloProj.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

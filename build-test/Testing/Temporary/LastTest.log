@@ -1,0 +1,35 @@
+Start testing: Sep 15 11:47 Paris, Madrid (heure d’été)
+----------------------------------------------------------
+1/2 Testing: test_hello
+1/2 Test: test_hello
+Command: "C:/Temp/SoftwareEngCMake/build-test/tests/Release/test_hello.exe"
+Directory: C:/Temp/SoftwareEngCMake/build-test/tests
+"test_hello" start time: Sep 15 11:47 Paris, Madrid (heure d’été)
+Output:
+----------------------------------------------------------
+Hello, World!!
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"test_hello" end time: Sep 15 11:47 Paris, Madrid (heure d’été)
+"test_hello" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: test_version
+2/2 Test: test_version
+Command: "C:/Temp/SoftwareEngCMake/build-test/tests/Release/test_version.exe"
+Directory: C:/Temp/SoftwareEngCMake/build-test/tests
+"test_version" start time: Sep 15 11:47 Paris, Madrid (heure d’été)
+Output:
+----------------------------------------------------------
+project version is 1.0
+<end of output>
+Test time =   1.19 sec
+----------------------------------------------------------
+Test Passed.
+"test_version" end time: Sep 15 11:47 Paris, Madrid (heure d’été)
+"test_version" time elapsed: 00:00:01
+----------------------------------------------------------
+
+End testing: Sep 15 11:47 Paris, Madrid (heure d’été)
